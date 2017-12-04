@@ -1,0 +1,1 @@
+# Spring Boot 中使用 @ConfigurationProperties 注解注入配置文件信息

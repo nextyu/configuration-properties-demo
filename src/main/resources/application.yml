@@ -1,0 +1,7 @@
+mall:
+  qiniu:
+    accessKey: aaa
+    secretKey: bbb
+  qq:
+    accessKey: ccc
+    secretKey: ddd
